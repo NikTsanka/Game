@@ -1,5 +1,6 @@
 package game;
 
+import game.interfaces.Enemy;
 import org.jetbrains.annotations.NotNull;
 
 public class DarthVader implements Enemy {

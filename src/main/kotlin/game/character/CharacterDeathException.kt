@@ -1,4 +1,4 @@
-package game
+package game.character
 
 import java.lang.RuntimeException
 

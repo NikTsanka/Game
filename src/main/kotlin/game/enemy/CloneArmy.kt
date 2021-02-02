@@ -1,4 +1,6 @@
-package game
+package game.enemy
+
+import game.interfaces.Enemy
 
 class CloneArmy(
     private val attackStrength: Int

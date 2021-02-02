@@ -1,4 +1,6 @@
-package game
+package game.enemy
+
+import game.interfaces.Enemy
 
 class SithMaster(
     private val attackStrength: Int
